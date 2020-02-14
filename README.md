@@ -1,5 +1,5 @@
 # Example Application - Complimentr
-
+Owned by: Craig Dennis
 ## Use this on Glitch
 
 [Remix on Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/craigsdennis/intro-to-apis-flask)
